@@ -1,4 +1,4 @@
-# KPMG Data Analytics Internship
+# KPMG Data Analytics Virtual Internship
 						
 Data has enormous power. It is the most sought after and expensive commodity in the world. To use that data to gain useful insights and develop a strategic business plan is an art in itself that many calls as Data Analytics. Data Science is the umbrella term comprising of different fields that are used to derive insights from big datasets. Their functions are interconnected. Data Analytics refers to a specific field that works upon answering the existing relevant questions by finding valuable actionable insights. It is more focused. Data Science is directed toward finding which questions are to be asked.
 
